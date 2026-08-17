@@ -28,18 +28,6 @@
     }
   ],
   "downloads": {
-    "xmws5": {
-      "version": "1.0.0",
-      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
-    "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
-    "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
     "xmrw5": {
       "version": "1.0.0",
       "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
@@ -53,6 +41,18 @@
       "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
     },
     "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmws5": {
       "version": "1.0.0",
       "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
     },
