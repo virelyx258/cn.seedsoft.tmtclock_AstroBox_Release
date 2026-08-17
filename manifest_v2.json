@@ -1,0 +1,65 @@
+{
+  "item": {
+    "id": "cn.seedsoft.tmtclock",
+    "restype": "quick_app",
+    "name": "番茄钟",
+    "description": "为 Xiaomi S 系列手表、红米数字系列手表补全缺失的番茄钟体验。",
+    "preview": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ],
+    "icon": "logo.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "RiseForever",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "github-logo",
+      "title": "开源仓库",
+      "url": "https://github.com/virelyx258/vela-tomato-clock"
+    }
+  ],
+  "downloads": {
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    }
+  },
+  "ext": {}
+}
